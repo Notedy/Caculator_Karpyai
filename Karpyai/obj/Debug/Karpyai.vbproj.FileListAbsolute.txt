@@ -1,0 +1,13 @@
+D:\VB Net\Karpyai\Karpyai\bin\Debug\Karpyai.exe.config
+D:\VB Net\Karpyai\Karpyai\bin\Debug\Karpyai.exe
+D:\VB Net\Karpyai\Karpyai\bin\Debug\Karpyai.pdb
+D:\VB Net\Karpyai\Karpyai\bin\Debug\Karpyai.xml
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.vbprojAssemblyReference.cache
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.Form1.resources
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.Resources.resources
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.vbproj.GenerateResource.cache
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.vbproj.CoreCompileInputs.cache
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.exe
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.xml
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.pdb
+D:\VB Net\Karpyai\Karpyai\obj\Debug\Karpyai.Form2.resources
